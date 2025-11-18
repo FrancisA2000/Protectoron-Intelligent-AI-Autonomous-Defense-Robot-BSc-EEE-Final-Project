@@ -622,12 +622,10 @@ This project was developed as a BSc Final Project in Electrical and Electronics 
 ### Project Members
 
 **Francis Aboud**
-- Email: francis.about@e.Braude.ac.il
-- Role: Lead Developer, AI Integration, System Architecture
+- Email: FrancisAboud2000@gmail.com
 
 **Bshara Habib**
-- Email: bshara.habib@e.Braude.ac.il
-- Role: Hardware Integration, Communication Systems, Testing
+- Email: Bshara185@gmail.com 
 
 ### Supervisors & Acknowledgments
 
@@ -636,7 +634,7 @@ We would like to thank:
 - The Electronics Engineering Department
 - The Computer Science Department
 - Yahboom Robotics for hardware support
-- The open-source community (OpenCV, YOLO, MediaPipe)
+- The open-source community (including [OpenCV](https://opencv.org/), [YOLO](https://github.com/ultralytics/ultralytics), and [MediaPipe](https://mediapipe.dev/))
 
 ---
 
@@ -686,7 +684,7 @@ See [LICENSE](LICENSE) file for details.
 For questions, collaboration, or more information:
 
 - **Project Repository:** [GitHub](https://github.com/FrancisA2000/Protectoron-Intelligent-AI-Autonomous-Defense-Robot-BSc-EEE-Final-Project)
-- **Email:** francis.about@e.Braude.ac.il, bshara.habib@e.Braude.ac.il
+- **Email:** FrancisAboud2000@gmail.com, Bshara185@gmail.com
 - **Institution:** Braude College of Engineering, Karmiel, Israel
 
 ---
